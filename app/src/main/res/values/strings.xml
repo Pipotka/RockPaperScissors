@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">RockPaperScissors</string>
-    <string name="game_result"></string>
 </resources>
